@@ -22,4 +22,8 @@ public void gettitle()
 {
 return title;
 }
+public void setauthor(int author)
+{
+this.author=author;
+}
 }
