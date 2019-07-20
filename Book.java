@@ -13,4 +13,13 @@ public int getBookId()
 {
 return bookId;
 }
+public void settitle( String title)
+{
+this.title=title;
+
+}
+public void gettitle()
+{
+return title;
+}
 }
